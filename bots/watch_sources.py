@@ -28,7 +28,10 @@ def sources():
         for i, src in enumerate(r.get("sources") or []):
             if src and src not in seen and src.startswith("http"):
                 seen.add(src); out.append({"id": f"{key}:source{i+1}", "state": key, "name": name, "label": f"{name} rule or guidance source", "url": src})
+    have = {o["url"].rstrip("/") for o in out}
     for key, name, label, url in EXTRA:
+        if url.rstrip("/") in have:
+            continue
         out.append({"id": f"{key}:{label.lower().replace(' ', '-')[:40]}", "state": key, "name": name, "label": label, "url": url})
     return out
 

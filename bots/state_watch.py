@@ -51,6 +51,29 @@ def extract(url, page):
             du.add(l["url"]); dl.append(l)
     return uniq, dl
 
+INDEXNOW_KEY = "b51c23e3811f3f78887fda7d097bc985"  # public key file served at soundlabconsult.com/<key>.txt
+
+def reindex(keys):
+    """Ask search engines to recrawl the pages that show regulation-watch data for the changed states."""
+    rows = json.loads((ROOT / "data" / "clia-state-requirements.json").read_text())
+    by = {r["slug"].replace("-", ""): r for r in rows}
+    urls = ["https://soundlabconsult.com/state-lab-requirements/"]
+    for k in keys:
+        if k == "newyork":
+            urls += ["https://soundlabconsult.com/new-york-genetic-testing-requirements/",
+                     "https://soundlabconsult.com/new-york-genetic-testing-requirements/ldt-test-approval/",
+                     "https://soundlabconsult.com/new-york-genetic-testing-requirements/single-use-permit/"]
+        if k in by:
+            urls.append(f"https://soundlabconsult.com/lab-consultant-{by[k]['slug']}")
+    body = json.dumps({"host": "soundlabconsult.com", "key": INDEXNOW_KEY,
+                       "keyLocation": f"https://soundlabconsult.com/{INDEXNOW_KEY}.txt", "urlList": sorted(set(urls))}).encode()
+    try:
+        req = urllib.request.Request("https://api.indexnow.org/indexnow", data=body, headers={"Content-Type": "application/json; charset=utf-8"})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            print("IndexNow", r.status, len(urls), "urls")
+    except Exception as e:
+        print("IndexNow failed:", e)
+
 def main():
     SNAP.mkdir(parents=True, exist_ok=True)
     state = json.loads(OUT.read_text()) if OUT.exists() else {"sources": {}}
@@ -100,6 +123,8 @@ def main():
                 body.append(f"- {ch['removedCount']} line(s) removed")
             body.append("")
         pathlib.Path("issue.md").write_text("\n".join(body)[:60000])
+    if changed:
+        reindex(state["changedToday"])
     print(f"checked {len(state['sources'])} sources, {len(changed)} changed: {state['changedToday']}")
 
 if __name__ == "__main__":
