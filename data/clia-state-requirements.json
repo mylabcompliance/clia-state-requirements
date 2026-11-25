@@ -1,0 +1,861 @@
+[
+  {
+    "state": "Alabama",
+    "slug": "alabama",
+    "site": "https://alabamalabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Alabama Department of Public Health, Division of Health Care Facilities, CLIA Program",
+    "agency_url": "https://www.alabamapublichealth.gov/providerstandards/clia.html",
+    "state_facility_license": "required_with_exemptions",
+    "facility_license_summary": "Independent Clinical Laboratories, including waived-only ones, also need an Alabama state laboratory license.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://www.alabamapublichealth.gov/providerstandards/clia.html"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Alaska",
+    "slug": "alaska",
+    "site": "https://alaskalabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Alaska CLIA Program, Alaska State Public Health Laboratory (Alaska Department of Health)",
+    "agency_url": "https://health.alaska.gov/en/resources/state-laboratories-clinical-laboratory-improvement-amendments/",
+    "state_facility_license": "not_described",
+    "facility_license_summary": "Our state page describes federal CLIA certification through the state agency and no separate state facility license. Confirm with the agency.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://health.alaska.gov/en/resources/state-laboratories-clinical-laboratory-improvement-amendments/"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Arizona",
+    "slug": "arizona",
+    "site": "https://arizonalabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Arizona Department of Health Services (ADHS), Laboratory Licensure & Certification",
+    "agency_url": "https://www.azdhs.gov/preparedness/state-laboratory/lab-licensure-certification/index.php",
+    "state_facility_license": "required_with_exemptions",
+    "facility_license_summary": "Arizona statute requires clinical laboratory licensure through ADHS on top of CLIA; accredited or federally certified labs can be exempt from state on-site inspections.",
+    "personnel_license": "no",
+    "personnel_summary": "We did not find an Arizona license for clinical laboratory testing staff; the federal CLIA personnel rules apply. Confirm with ADHS.",
+    "note": null,
+    "sources": [
+      "https://www.azdhs.gov/preparedness/state-laboratory/lab-licensure-certification/index.php"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Arkansas",
+    "slug": "arkansas",
+    "site": "https://arkansaslabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Arkansas Department of Health, Health Facility Services",
+    "agency_url": "https://healthy.arkansas.gov/programs-services/licensing-military-member-licensure-permits-plan-reviews/health-facility-services/clinical-laboratory-improvement-act-clia/",
+    "state_facility_license": "not_described",
+    "facility_license_summary": "Our state page describes federal CLIA certification through the state agency and no separate state facility license. Confirm with the agency.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://healthy.arkansas.gov/programs-services/licensing-military-member-licensure-permits-plan-reviews/health-facility-services/clinical-laboratory-improvement-act-clia/"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "California",
+    "slug": "california",
+    "site": "https://californialabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "CDPH Laboratory Field Services (LFS)",
+    "agency_url": "https://www.cdph.ca.gov/Programs/OSPHLD/LFS/Pages/CLIA.aspx",
+    "state_facility_license": "required",
+    "facility_license_summary": "Under Bus. & Prof. Code \u00a7 1265 every testing site needs a CDPH LFS registration (waived or PPM) or license (moderate or high complexity) in addition to CLIA. State approvals renew yearly; out-of-state labs testing California specimens also need a California license.",
+    "personnel_license": "yes",
+    "personnel_summary": "California licenses testing personnel and directors (CLS, MLT, phlebotomy and others).",
+    "note": null,
+    "sources": [
+      "https://www.cdph.ca.gov/Programs/OSPHLD/LFS/Pages/CLIA.aspx",
+      "https://www.cdph.ca.gov/Programs/OSPHLD/LFS/Pages/ClinicalLaboratoryPersonnel.aspx"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Colorado",
+    "slug": "colorado",
+    "site": "https://coloradolabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "CDPHE Laboratory Services Division, CLIA program",
+    "agency_url": "https://cdphe.colorado.gov/clia-clinical-laboratory-improvement-amendments",
+    "state_facility_license": "not_required",
+    "facility_license_summary": "CDPHE describes no separate general state clinical lab license; labs need the correct CLIA certificate filed with CDPHE.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://cdphe.colorado.gov/clia-clinical-laboratory-improvement-amendments"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Connecticut",
+    "slug": "connecticut",
+    "site": "https://connecticutlabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Connecticut DPH Facility Licensing and Investigations Section",
+    "agency_url": "https://portal.ct.gov/dph",
+    "state_facility_license": "required_with_exemptions",
+    "facility_license_summary": "Most clinical labs need a Connecticut DPH clinical laboratory license (Regs. Conn. State Agencies \u00a7 19a-36-D22) in addition to CLIA; exemptions include federal, research-only, forensic-only and CLIA-exempt labs.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://portal.ct.gov/dph"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Delaware",
+    "slug": "delaware",
+    "site": "https://delawarelabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Delaware Public Health Laboratory (DPHL) CLIA program",
+    "agency_url": "https://dhss.delaware.gov/dph/homepage/about/sections/ehdishome/labs/clia/",
+    "state_facility_license": "not_required",
+    "facility_license_summary": "No separate Delaware state clinical lab license found; CMS-116 goes to the DPHL CLIA program.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://dhss.delaware.gov/dph/homepage/about/sections/ehdishome/labs/clia/"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Florida",
+    "slug": "florida",
+    "site": "https://floridalabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "AHCA Laboratory and In-Home Services Unit",
+    "agency_url": "https://ahca.myflorida.com/",
+    "state_facility_license": "not_required",
+    "facility_license_summary": "Florida stopped requiring a state clinical laboratory facility license on July 1, 2018; federal CLIA certification through AHCA is still required.",
+    "personnel_license": "yes",
+    "personnel_summary": "The Florida Board of Clinical Laboratory Personnel licenses directors, supervisors, technologists and technicians (Chapter 483, Part II, F.S.).",
+    "note": null,
+    "sources": [
+      "https://ahca.myflorida.com/",
+      "https://floridasclinicallabs.gov/licensing/"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Georgia",
+    "slug": "georgia",
+    "site": "https://georgialabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Georgia DCH Healthcare Facility Regulation Division (HFRD)",
+    "agency_url": "https://dch.georgia.gov/divisionsoffices/hfrd/facilities-provider-information/clia",
+    "state_facility_license": "not_required",
+    "facility_license_summary": "House Bill 93 removed state licensure for clinical labs, collection stations and lab directors effective July 1, 2021; labs still need CLIA.",
+    "personnel_license": "no",
+    "personnel_summary": "Georgia's lab director licensure ended with HB 93 (2021).",
+    "note": null,
+    "sources": [
+      "https://dch.georgia.gov/divisionsoffices/hfrd/facilities-provider-information/clia",
+      "https://www.legis.ga.gov/legislation/58932"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Hawaii",
+    "slug": "hawaii",
+    "site": "https://hawaiilabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Hawaii DOH Office of Health Care Assurance (OHCA) CLIA Program",
+    "agency_url": "https://health.hawaii.gov/ohca/home/medicare-section/clia/",
+    "state_facility_license": "required_with_exemptions",
+    "facility_license_summary": "Most non-physician labs need a Permit Class I, Permit Class II or Clinical Laboratory License under HAR 11-110.1 in addition to CLIA; qualifying physician office labs are exempt.",
+    "personnel_license": "yes",
+    "personnel_summary": "Directors, medical technologists, clinical laboratory specialists, cytotechnologists and MLTs need a Hawaii personnel license.",
+    "note": null,
+    "sources": [
+      "https://health.hawaii.gov/ohca/home/medicare-section/clia/"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Idaho",
+    "slug": "idaho",
+    "site": "https://idaholabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Idaho Bureau of Laboratories, Laboratory Improvement Section",
+    "agency_url": "https://healthandwelfare.idaho.gov/providers/idaho-laboratories-and-testing/clinical-lab-certification",
+    "state_facility_license": "not_described",
+    "facility_license_summary": "Our state page describes federal CLIA certification through the state agency and no separate state facility license. Confirm with the agency.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://healthandwelfare.idaho.gov/providers/idaho-laboratories-and-testing/clinical-lab-certification"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Illinois",
+    "slug": "illinois",
+    "site": "https://illinoislabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "IDPH CLIA Laboratory Certification Program",
+    "agency_url": "https://dph.illinois.gov/topics-services/health-care-regulation/clia/faqs.html",
+    "state_facility_license": "not_described",
+    "facility_license_summary": "CLIA is administered by IDPH in Springfield; changes in ownership, name, location or director must be reported within 30 days.",
+    "personnel_license": "no",
+    "personnel_summary": "Illinois does not license lab personnel.",
+    "note": null,
+    "sources": [
+      "https://dph.illinois.gov/topics-services/health-care-regulation/clia/faqs.html"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Indiana",
+    "slug": "indiana",
+    "site": "https://indianalabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Indiana Department of Health (IDOH) CLIA program",
+    "agency_url": "https://www.in.gov/health/cshcr/acute-and-continuing-care/clinical-laboratory-clia-licensing-and-certification-program/",
+    "state_facility_license": "not_required",
+    "facility_license_summary": "No separate state license for non-hospital labs; hospital labs are also covered by hospital licensure rules (410 IAC 15).",
+    "personnel_license": "no",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://www.in.gov/health/cshcr/acute-and-continuing-care/clinical-laboratory-clia-licensing-and-certification-program/"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Iowa",
+    "slug": "iowa",
+    "site": "https://iowalabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Iowa CLIA Laboratory Program, State Hygienic Laboratory (University of Iowa)",
+    "agency_url": "https://shl.uiowa.edu/",
+    "state_facility_license": "not_required",
+    "facility_license_summary": "No separate Iowa clinical laboratory facility license found; SHL processes CMS-116 and surveys labs for CMS.",
+    "personnel_license": "no",
+    "personnel_summary": "Iowa does not license lab personnel.",
+    "note": null,
+    "sources": [
+      "https://shl.uiowa.edu/"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Kansas",
+    "slug": "kansas",
+    "site": "https://kansaslabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "KDHE Laboratory Improvement Program Office",
+    "agency_url": "https://www.kdhe.ks.gov/1114/Clinical-Laboratory-Improvement-Amendmen",
+    "state_facility_license": "not_required",
+    "facility_license_summary": "No separate Kansas clinical laboratory license found; CLIA changes go on Form CMS-116.",
+    "personnel_license": "no",
+    "personnel_summary": "Kansas does not license lab personnel.",
+    "note": null,
+    "sources": [
+      "https://www.kdhe.ks.gov/1114/Clinical-Laboratory-Improvement-Amendmen"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Kentucky",
+    "slug": "kentucky",
+    "site": "https://kentuckylabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Kentucky CLIA Program, Office of Inspector General, Division of Health Care",
+    "agency_url": "https://www.chfs.ky.gov/agencies/os/oig/dhc/Pages/default.aspx",
+    "state_facility_license": "required_with_exemptions",
+    "facility_license_summary": "Kentucky also requires a state medical laboratory license for each location unless an exemption in KRS 333.040 applies.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://www.chfs.ky.gov/agencies/os/oig/dhc/Pages/default.aspx"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Louisiana",
+    "slug": "louisiana",
+    "site": "https://louisianalabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Louisiana Department of Health, Health Standards Section, CLIA Program",
+    "agency_url": "https://ldh.la.gov/page/3766",
+    "state_facility_license": "not_described",
+    "facility_license_summary": "Our state page describes federal CLIA certification through the state agency and no separate state facility license. Confirm with the agency.",
+    "personnel_license": "yes",
+    "personnel_summary": "Louisiana licenses clinical laboratory personnel through the Louisiana State Board of Medical Examiners, so staff licensure is part of compliance in addition to CLIA.",
+    "note": null,
+    "sources": [
+      "https://ldh.la.gov/page/3766"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Maine",
+    "slug": "maine",
+    "site": "https://mainelabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Maine DHHS Division of Licensing and Certification",
+    "agency_url": "https://www.maine.gov/dhhs/dlc/licensing-certification/medical-facilities/",
+    "state_facility_license": "required_with_exemptions",
+    "facility_license_summary": "Non-exempt labs need a Maine medical laboratory license under the Medical Laboratory Act (22 M.R.S. ch. 411) in addition to CLIA; exemptions in \u00a7 2013-A and 10-144 C.M.R. ch. 256.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://www.maine.gov/dhhs/dlc/licensing-certification/medical-facilities/",
+      "https://www.legislature.maine.gov/legis/statutes/22/title22ch411.pdf"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Maryland",
+    "slug": "maryland",
+    "site": "https://marylandlabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Maryland Office of Health Care Quality (OHCQ)",
+    "agency_url": "https://health.maryland.gov/ohcq/",
+    "state_facility_license": "required",
+    "facility_license_summary": "Health-General \u00a7 17-205 requires a state license (permit or letter of exception) before offering or performing tests in Maryland, testing Maryland specimens out of state, or representing a lab in Maryland.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://health.maryland.gov/ohcq/"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Massachusetts",
+    "slug": "massachusetts",
+    "site": "https://massachusettslabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Massachusetts DPH Clinical Laboratory Program",
+    "agency_url": "https://www.mass.gov/clinical-laboratory-program",
+    "state_facility_license": "required_with_exemptions",
+    "facility_license_summary": "M.G.L. c. 111D and 105 CMR 180 require a Limited or Full license for most non-waived labs; waived-only and certain physician-owned labs are exempt; hospital and clinic labs get a certificate of approval.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://www.mass.gov/clinical-laboratory-program",
+      "https://www.mass.gov/how-to/apply-for-a-massachusetts-clinical-laboratory-license"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Michigan",
+    "slug": "michigan",
+    "site": "https://michiganlabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "LARA Bureau of Survey and Certification, Laboratory Improvement Section",
+    "agency_url": "https://www.michigan.gov/lara/bureau-list/bsc/accs-division/clia",
+    "state_facility_license": "not_required",
+    "facility_license_summary": "Public Act 104 of 2015 repealed Michigan's state clinical lab licensing (effective October 1, 2015); labs need CLIA through LARA.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://www.michigan.gov/lara/bureau-list/bsc/accs-division/clia"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Minnesota",
+    "slug": "minnesota",
+    "site": "https://minnesotalabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Minnesota Department of Health CLIA Program",
+    "agency_url": "https://www.health.state.mn.us/facilities/regulation/clia/index.html",
+    "state_facility_license": "not_required",
+    "facility_license_summary": "MDH describes no separate state clinical laboratory license; labs billing Medical Assistance also enroll with MHCP.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://www.health.state.mn.us/facilities/regulation/clia/index.html"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Mississippi",
+    "slug": "mississippi",
+    "site": "https://mississippilabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "MSDH Licensure and Certification, CLIA office",
+    "agency_url": "https://msdh.ms.gov/",
+    "state_facility_license": "not_required",
+    "facility_license_summary": "No separate state clinical laboratory license; MSDH processes CMS-116 and inspects moderate and high complexity labs.",
+    "personnel_license": "no",
+    "personnel_summary": "Mississippi does not license clinical laboratory personnel.",
+    "note": null,
+    "sources": [
+      "https://msdh.ms.gov/",
+      "https://www.cms.gov/Regulations-and-Guidance/Legislation/CLIA/Downloads/CLIASA.pdf"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Missouri",
+    "slug": "missouri",
+    "site": "https://missourilabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Missouri DHSS CLIA Laboratory Program",
+    "agency_url": "https://health.mo.gov/providers/clia-clinical-laboratory-program",
+    "state_facility_license": "not_required",
+    "facility_license_summary": "No separate Missouri clinical laboratory license found.",
+    "personnel_license": "no",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://health.mo.gov/providers/clia-clinical-laboratory-program"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Montana",
+    "slug": "montana",
+    "site": "https://montanalabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Montana DPHHS Office of Inspector General, Certification Bureau (Montana CLIA Program)",
+    "agency_url": "https://dphhs.mt.gov/oig/Certification/clia/",
+    "state_facility_license": "not_described",
+    "facility_license_summary": "Our state page describes federal CLIA certification through the state agency and no separate state facility license. Confirm with the agency.",
+    "personnel_license": "yes",
+    "personnel_summary": "Montana licenses clinical laboratory personnel through the Board of Clinical Laboratory Science Practitioners, so staff licensure belongs on the checklist alongside CLIA.",
+    "note": null,
+    "sources": [
+      "https://dphhs.mt.gov/oig/Certification/clia/"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Nebraska",
+    "slug": "nebraska",
+    "site": "https://nebraskalabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Nebraska DHHS, Division of Public Health, Licensure Unit, Office of Acute Care Facilities",
+    "agency_url": "https://dhhs.ne.gov/licensure/Pages/CLIA-Clinical-Labs.aspx",
+    "state_facility_license": "not_described",
+    "facility_license_summary": "Our state page describes federal CLIA certification through the state agency and no separate state facility license. Confirm with the agency.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://dhhs.ne.gov/licensure/Pages/CLIA-Clinical-Labs.aspx"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Nevada",
+    "slug": "nevada",
+    "site": "https://nevadalabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Nevada Division of Public and Behavioral Health, Bureau of Health Care Quality and Compliance",
+    "agency_url": "https://www.leg.state.nv.us/NRS/NRS-652.html",
+    "state_facility_license": "required_with_exemptions",
+    "facility_license_summary": "NRS 652.080 requires a state license to operate a medical laboratory, separate from CLIA, unless an exception such as physician-office registration under NRS 652.072 applies.",
+    "personnel_license": "yes",
+    "personnel_summary": "NAC 652 provides a director's license and state certification for supervisors, technologists, technicians and other lab staff.",
+    "note": null,
+    "sources": [
+      "https://www.leg.state.nv.us/NRS/NRS-652.html",
+      "https://www.leg.state.nv.us/NAC/NAC-652.html"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "New Hampshire",
+    "slug": "newhampshire",
+    "site": "https://newhampshirelabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "NH DHHS Health Facilities Administration",
+    "agency_url": "https://www.dhhs.nh.gov/clinical-laboratory-improvement-amendments-clia",
+    "state_facility_license": "required_with_exemptions",
+    "facility_license_summary": "RSA 151:2, I(c) requires a license for labs testing human samples and for collection stations (He-P 808, He-P 817). CLIA-inspected labs are deemed licensed under RSA 151:5-b, II but still file; physician offices are carved out by RSA 151:2, II.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://www.dhhs.nh.gov/clinical-laboratory-improvement-amendments-clia",
+      "https://www.gc.nh.gov/rsa/html/XI/151/151-2.htm"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "New Jersey",
+    "slug": "newjersey",
+    "site": "https://newjerseylabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "NJ Department of Health, Clinical Laboratory Improvement Services (CLIS)",
+    "agency_url": "https://www.nj.gov/health/phel/clinical-lab-imp-services/state_licensing/",
+    "state_facility_license": "required_with_exemptions",
+    "facility_license_summary": "N.J.S.A. 45:9-42.28 requires a Department of Health license for each location; statutory exemptions include qualifying point-of-care-only testing.",
+    "personnel_license": "directors",
+    "personnel_summary": "New Jersey licenses clinical laboratory (bioanalytical) directors (N.J.A.C. 8:44-2.3).",
+    "note": null,
+    "sources": [
+      "https://www.nj.gov/health/phel/clinical-lab-imp-services/state_licensing/"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "New Mexico",
+    "slug": "newmexico",
+    "site": "https://newmexicolabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "NM Health Care Authority, Division of Health Improvement",
+    "agency_url": "https://www.hca.nm.gov/",
+    "state_facility_license": "not_required",
+    "facility_license_summary": "The HCA CLIA program describes federal CLIA certification; no separate general state clinical lab facility license found.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://www.hca.nm.gov/"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "New York",
+    "slug": "newyork",
+    "site": "https://newyorklabconsultant.com/",
+    "clia_exempt_state": true,
+    "clia_state_agency": "the Clinical Laboratory Evaluation Program (CLEP) at the Wadsworth Center",
+    "agency_url": "https://www.wadsworth.org/regulatory/clep",
+    "state_facility_license": "state_permit_instead_of_clia",
+    "facility_license_summary": "New York is CLIA-exempt for permit-holding labs: most labs need a New York State clinical laboratory permit from CLEP, and out-of-state labs need one to test New York specimens.",
+    "personnel_license": "yes",
+    "personnel_summary": "New York licenses clinical laboratory technologists and related titles through the State Education Department's Office of the Professions. That is separate from the CLEP lab permit and from the director's Certificate of Qualification, so a complete personnel file usually touches all three.",
+    "note": null,
+    "sources": [
+      "https://www.wadsworth.org/regulatory/clep"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "North Carolina",
+    "slug": "northcarolina",
+    "site": "https://northcarolinalabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "NC DHHS Division of Health Service Regulation (DHSR) CLIA",
+    "agency_url": "https://info.ncdhhs.gov/dhsr/ahc/clia/index.html",
+    "state_facility_license": "not_required",
+    "facility_license_summary": "NC DHSR's CLIA FAQ says no separate general state clinical lab license is required; service-specific approvals (HIV, mammography, Pap screening) may apply.",
+    "personnel_license": "no",
+    "personnel_summary": "NC DHSR says no laboratory personnel license is required.",
+    "note": null,
+    "sources": [
+      "https://info.ncdhhs.gov/dhsr/ahc/clia/index.html",
+      "https://info.ncdhhs.gov/dhsr/ahc/clia/cliafaq.html"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "North Dakota",
+    "slug": "northdakota",
+    "site": "https://northdakotalabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "North Dakota HHS Health Facilities Unit",
+    "agency_url": "https://www.hhs.nd.gov/health/health-facilities-unit/clia-laboratories",
+    "state_facility_license": "not_required",
+    "facility_license_summary": "No separate clinical laboratory facility license found.",
+    "personnel_license": "yes",
+    "personnel_summary": "North Dakota licenses clinical laboratory scientists and technicians through the Board of Clinical Laboratory Practice.",
+    "note": null,
+    "sources": [
+      "https://www.hhs.nd.gov/health/health-facilities-unit/clia-laboratories"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Ohio",
+    "slug": "ohio",
+    "site": "https://ohiolabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Ohio Department of Health, Bureau of Survey and Certification",
+    "agency_url": "https://odh.ohio.gov/know-our-programs/lab-certification-clia",
+    "state_facility_license": "not_required",
+    "facility_license_summary": "No separate general Ohio clinical lab license; plasmapheresis centers (ORC 3725) and blood-lead labs (OAC 3701-82-02) need specific ODH approvals.",
+    "personnel_license": "no",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://odh.ohio.gov/know-our-programs/lab-certification-clia"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Oklahoma",
+    "slug": "oklahoma",
+    "site": "https://oklahomalabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "OSDH Facility Services Division - CLIA",
+    "agency_url": "https://oklahoma.gov/health/services/licensing-inspections/medical-facilities-service.html",
+    "state_facility_license": "not_required",
+    "facility_license_summary": "OSDH lists CLIA labs among facilities with no Oklahoma licensing requirement.",
+    "personnel_license": "no",
+    "personnel_summary": "Oklahoma does not license lab personnel.",
+    "note": null,
+    "sources": [
+      "https://oklahoma.gov/health/services/licensing-inspections/medical-facilities-service.html"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Oregon",
+    "slug": "oregon",
+    "site": "https://oregonlabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Oregon State Public Health Laboratory (OSPHL), Laboratory Compliance Section, Oregon Health Authority",
+    "agency_url": "https://www.oregon.gov/oha/PH/LaboratoryServices/ClinicalLaboratoryRegulation/Pages/index.aspx",
+    "state_facility_license": "state_rules_and_permits",
+    "facility_license_summary": "Oregon enforces its own rules under ORS 438 and OAR 333-024, and health screen and non-medical substance of abuse testing carry their own state permit and registration.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://www.oregon.gov/oha/PH/LaboratoryServices/ClinicalLaboratoryRegulation/Pages/index.aspx"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Pennsylvania",
+    "slug": "pennsylvania",
+    "site": "https://pennsylvanialabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "PA Department of Health, Bureau of Laboratories",
+    "agency_url": "https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories",
+    "state_facility_license": "required",
+    "facility_license_summary": "Pennsylvania requires a state clinical laboratory permit from the PA DOH Bureau of Laboratories (28 Pa. Code Chapter 5) in addition to CLIA.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Rhode Island",
+    "slug": "rhodeisland",
+    "site": "https://rhodeislandlabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Rhode Island Department of Health, Division of Facilities Regulation",
+    "agency_url": "https://health.ri.gov/licensing/laboratory",
+    "state_facility_license": "required",
+    "facility_license_summary": "Rhode Island also requires a RIDOH clinical laboratory license, renewed every two years.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://health.ri.gov/licensing/laboratory"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "South Carolina",
+    "slug": "southcarolina",
+    "site": "https://southcarolinalabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "South Carolina Department of Public Health, Healthcare Quality",
+    "agency_url": "https://dph.sc.gov/professionals/healthcare-quality/clia",
+    "state_facility_license": "not_described",
+    "facility_license_summary": "Our state page describes federal CLIA certification through the state agency and no separate state facility license. Confirm with the agency.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://dph.sc.gov/professionals/healthcare-quality/clia"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "South Dakota",
+    "slug": "southdakota",
+    "site": "https://southdakotalabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "South Dakota DOH, Office of Health Care Facilities Licensure and Certification",
+    "agency_url": "https://doh.sd.gov/healthcare-professionals/health-facility-licensure/",
+    "state_facility_license": "not_required",
+    "facility_license_summary": "South Dakota does not list clinical laboratories among licensed facility types.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://doh.sd.gov/healthcare-professionals/health-facility-licensure/"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Tennessee",
+    "slug": "tennessee",
+    "site": "https://tennesseelabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Tennessee Health Facilities Commission (listed by CMS as Tennessee Health Care Facilities)",
+    "agency_url": "https://www.tn.gov/hfc/division-of-licensure-and-regulation/certification/clinical-laboratory-improvement-amendments.html",
+    "state_facility_license": "required_with_exemptions",
+    "facility_license_summary": "Tennessee also requires a Medical Laboratory Board license for each location unless an exemption applies.",
+    "personnel_license": "yes",
+    "personnel_summary": "Tennessee also licenses laboratory personnel, so staff licenses belong in every personnel file.",
+    "note": null,
+    "sources": [
+      "https://www.tn.gov/hfc/division-of-licensure-and-regulation/certification/clinical-laboratory-improvement-amendments.html"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Texas",
+    "slug": "texas",
+    "site": "https://texaslabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Texas Health and Human Services Commission (HHSC), Health Facility Compliance",
+    "agency_url": "https://www.hhs.texas.gov/providers/health-care-facilities-regulation/laboratories-clinical-laboratory-improvement-amendments",
+    "state_facility_license": "not_required",
+    "facility_license_summary": "Texas does not license laboratories, but HHSC adds Form 3225 to every CMS-116 and enforces 30-day change notices.",
+    "personnel_license": "no",
+    "personnel_summary": "We have not found a Texas state license for clinical laboratory personnel; the federal CLIA personnel rules apply. Confirm with HHSC for your situation.",
+    "note": null,
+    "sources": [
+      "https://www.hhs.texas.gov/providers/health-care-facilities-regulation/laboratories-clinical-laboratory-improvement-amendments"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Utah",
+    "slug": "utah",
+    "site": "https://utahlabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Utah Public Health Laboratory, Bureau of Laboratory Improvement",
+    "agency_url": "https://uphl.utah.gov/certifications/clinical-laboratory-certification/",
+    "state_facility_license": "not_described",
+    "facility_license_summary": "Our state page describes federal CLIA certification through the state agency and no separate state facility license. Confirm with the agency.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://uphl.utah.gov/certifications/clinical-laboratory-certification/"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Vermont",
+    "slug": "vermont",
+    "site": "https://vermontlabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "New Hampshire DHHS, Health Facilities Administration (CMS directs Vermont labs to the New Hampshire State Agency)",
+    "agency_url": "https://www.dhhs.nh.gov/clinical-laboratory-improvement-amendments-clia",
+    "state_facility_license": "not_described",
+    "facility_license_summary": "Our state page describes federal CLIA certification through the state agency and no separate state facility license. Confirm with the agency.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": "Vermont is an unusual case: the CMS State Agency directory tells labs located in Vermont to contact New Hampshire's state agency for CLIA, so Vermont applications and certificate questions go there.",
+    "sources": [
+      "https://www.dhhs.nh.gov/clinical-laboratory-improvement-amendments-clia"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Virginia",
+    "slug": "virginia",
+    "site": "https://virginialabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Virginia Department of Health, Office of Licensure and Certification (Division of Acute Care Services)",
+    "agency_url": "https://www.vdh.virginia.gov/licensure-and-certification/division-of-acute-care-services/laboratories/",
+    "state_facility_license": "not_described",
+    "facility_license_summary": "Our state page describes federal CLIA certification through the state agency and no separate state facility license. Confirm with the agency.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": "A Virginia-specific detail: VDH asks that CLIA applications be sent by postal mail with an original director signature.",
+    "sources": [
+      "https://www.vdh.virginia.gov/licensure-and-certification/division-of-acute-care-services/laboratories/"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Washington",
+    "slug": "washington",
+    "site": "https://washingtonlabconsultant.com/",
+    "clia_exempt_state": true,
+    "clia_state_agency": "Washington State Department of Health, Medical Test Site (MTS) Program",
+    "agency_url": "https://doh.wa.gov/licenses-permits-and-certificates/facilities-z/medical-test-sites-mts/licensing-information",
+    "state_facility_license": "state_license_instead_of_clia",
+    "facility_license_summary": "Washington is CLIA-exempt: labs get a Medical Test Site license from the Washington State Department of Health instead of filing a CMS-116.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://doh.wa.gov/licenses-permits-and-certificates/facilities-z/medical-test-sites-mts/licensing-information"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "West Virginia",
+    "slug": "westvirginia",
+    "site": "https://westvirginialabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "West Virginia Bureau for Public Health, Office of Laboratory Services (OLS)",
+    "agency_url": "https://dhhr.wv.gov/ols/regulatory/Pages/CLIA.aspx",
+    "state_facility_license": "not_described",
+    "facility_license_summary": "Our state page describes federal CLIA certification through the state agency and no separate state facility license. Confirm with the agency.",
+    "personnel_license": "yes",
+    "personnel_summary": "West Virginia licenses clinical laboratory practitioners through the Office of Laboratory Services (64CSR57), the same office that handles CLIA, so staff licensure belongs on the compliance checklist.",
+    "note": null,
+    "sources": [
+      "https://dhhr.wv.gov/ols/regulatory/Pages/CLIA.aspx"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Wisconsin",
+    "slug": "wisconsin",
+    "site": "https://wisconsinlabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Wisconsin DHS Division of Quality Assurance, Clinical Laboratory Section",
+    "agency_url": "https://www.dhs.wisconsin.gov/regulations/labs/introduction.htm",
+    "state_facility_license": "not_required",
+    "facility_license_summary": "No separate Wisconsin clinical laboratory license found; environmental labs are a separate DNR track (NR 149).",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://www.dhs.wisconsin.gov/regulations/labs/introduction.htm"
+    ],
+    "last_reviewed": "2026-11-24"
+  },
+  {
+    "state": "Wyoming",
+    "slug": "wyoming",
+    "site": "https://wyominglabconsultant.com/",
+    "clia_exempt_state": false,
+    "clia_state_agency": "Wyoming Department of Health, Aging Division, Healthcare Licensing and Surveys",
+    "agency_url": "https://health.wyo.gov/aging/hls/clia-clinical-laboratory-improvement-amendments/",
+    "state_facility_license": "not_described",
+    "facility_license_summary": "Our state page describes federal CLIA certification through the state agency and no separate state facility license. Confirm with the agency.",
+    "personnel_license": "not_described",
+    "personnel_summary": null,
+    "note": null,
+    "sources": [
+      "https://health.wyo.gov/aging/hls/clia-clinical-laboratory-improvement-amendments/"
+    ],
+    "last_reviewed": "2026-11-24"
+  }
+]
