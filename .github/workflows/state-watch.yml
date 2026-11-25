@@ -1,0 +1,21 @@
+name: State lab regulation watch
+on:
+  schedule: [{cron: "17 11 * * *"}]
+  workflow_dispatch: {}
+permissions: {contents: write, issues: write}
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 bots/state_watch.py
+      - name: Commit results
+        run: |
+          git config user.name "slc-regwatch"; git config user.email "bot@soundlabconsult.com"
+          git add data/state-watch.json data/watch
+          git diff --cached --quiet || (git commit -m "State regulation watch $(date +%F)" && git push)
+      - name: Open review issue for changes
+        if: hashFiles('issue.md') != ''
+        env: {GH_TOKEN: "${{ github.token }}"}
+        run: |
+          gh issue create --title "Regulation changes detected $(date +%F)" --body-file issue.md

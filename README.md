@@ -93,3 +93,7 @@ Rules change. If you spot something out of date, open an issue or pull request w
 ## Disclaimer
 
 General information, not legal advice. Sound Lab Consultants is an independent consulting firm, not affiliated with CMS, CDC, FDA, any state agency or any accrediting organization. Need help with a specific lab? [Take the free CLIA certificate quiz](https://soundlabconsult.com) or call (602) 874-1311.
+
+## Regulation watch
+
+`bots/state_watch.py` runs daily (GitHub Actions) and checks each state's clinical laboratory regulator page, the official sources behind each state record, New York's CLEP pages (test approval, Single Use Permits, laws, standards, news) and the CMS/CDC CLIA pages. It records new text and newly published documents in [`data/state-watch.json`](data/state-watch.json) and opens an issue for human review when something changes. [Sound Lab Consultants](https://soundlabconsult.com/state-lab-requirements/) shows the latest check and detected changes on each state's requirements page.
