@@ -1,0 +1,69 @@
+{
+"url": "https://www.hhs.nd.gov/health/health-facilities-unit/clia-laboratories",
+"lines": [
+"CLIA Laboratories | Health and Human Services North Dakota",
+"Laboratories in North Dakota are certified as meeting the requirements of the Clinical Laboratory Improvement Amendments, CLIA, of 1988. Certification in the CLIA program allows for Medicare and Medicaid reimbursement for lab services in the nearly 900 entities in the state of North Dakota that do some type of lab test.",
+"Search all Laboratory Demographics",
+"Rural Health Information Hub",
+"The Rural Health Information Hub is the nation's rural health information source. The website offers an online library, coverage of rural issues, state guides, toolkits, program models, and more. Rural Health Information Hub provides customized assistance by phone or email and is funded by the Federal Office of Rural Health Policy. More information is available on the Rural Health Information Hub website.",
+"Clinical Laboratory Improvement Amendments Information",
+"CLIA Application for Certification Form CMS-116",
+"CLIA Laboratory Schedules and Fees",
+"CLIA Approved Proficiency Testing Programs",
+"CMS-209 Laboratory Personnel Report",
+"Information regarding personnel licensure in North Dakota at North Dakota Board of Clinical Laboratory Practice",
+"Centers for Disease Control and Prevention CLIA Page",
+"Centers for Medicare and Medicaid Services CLIA Page",
+"U.S. Food and Drug Administration CLIA Page",
+"CLIA Survey Plan of Correction Template",
+"Guidelines for Certificate of Provider-Performed Microscopy Procedures (PPMP)",
+"Appendix C - Survey Procedures and Interpretive Guidelines for Laboratories and Laboratory Services",
+"CLIA information for Out of State Laboratories",
+"Good Laboratory Practice for Certificate of Waiver laboratories",
+"Additional CLIA Resources",
+"North Dakota Department of Health and Human Services (NDHHS), Disease Control and Forensic Pathology Section Electronic Reporting",
+"Search for CLIA Laboratory Survey Results",
+"Health Facilities - CLIA Bits Newsletter",
+"CLIA Bits Newsletter Spring 2025 -exclusion",
+"Online Form for the Public to Report a Concern to Health Facilities",
+"Contact Health Facilities"
+],
+"docs": [
+{
+"url": "https://www.cms.gov/Medicare/CMS-Forms/CMS-Forms/Downloads/CMS116.pdf",
+"title": "CLIA Application for Certification Form CMS-116"
+},
+{
+"url": "https://www.cms.gov/Regulations-and-Guidance/Legislation/CLIA/downloads/ptlist.pdf",
+"title": "CLIA Approved Proficiency Testing Programs"
+},
+{
+"url": "https://www.cms.gov/Medicare/CMS-Forms/CMS-Forms/downloads/cms209.pdf",
+"title": "CMS-209 Laboratory Personnel Report"
+},
+{
+"url": "https://www.cms.gov/regulations-and-guidance/guidance/manuals/downloads/som107ap_c_lab.pdf",
+"title": "CLIA Federal Regulations"
+},
+{
+"url": "https://www.hhs.nd.gov/sites/default/files/documents/DOH%20Legacy/HF/CLIA/plan-of-correction-template-exclusion.docx",
+"title": "CLIA Survey Plan of Correction Template"
+},
+{
+"url": "https://www.hhs.nd.gov/sites/default/files/documents/DOH%20Legacy/HF/CLIA/clia-ppm-guidelines-exclusion.pdf",
+"title": "Guidelines for Certificate of Provider-Performed Microscopy Procedures (PPMP)"
+},
+{
+"url": "https://www.hhs.nd.gov/sites/default/files/documents/DOH%20Legacy/HF/CLIA/clia-out-of-state-labs-exclusion.pdf",
+"title": "CLIA information for Out of State Laboratories"
+},
+{
+"url": "https://www.hhs.nd.gov/sites/default/files/documents/DOH%20Legacy/HF/CLIA/clia-good-lab-practice-exclusion.pdf",
+"title": "Good Laboratory Practice for Certificate of Waiver laboratories"
+},
+{
+"url": "https://www.hhs.nd.gov/sites/default/files/documents/DOH%20Legacy/HF/CLIA/cliabitsspring2025-exclusion.pdf",
+"title": "Spring 2025"
+}
+]
+}

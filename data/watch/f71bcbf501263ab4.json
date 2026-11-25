@@ -1,0 +1,51 @@
+{
+"url": "https://www.alabamapublichealth.gov/providerstandards/clia.html",
+"lines": [
+"CLIA | Alabama Department of Public Health (ADPH)",
+"Bureau of Health Provider Standards",
+"Health Provider Standards Home",
+"Medical Director Meetings",
+"Civil Money Penalty (CMP) Fund Grants",
+"Licensure Advisory Board Meetings",
+"Having trouble finding what you are looking for? Use our A to Z Index .",
+"CLIA (Clinical Laboratory Improvement Amendment)",
+"The new fillable version of Form CMS-116 has been posted on the CLIA web page under \"How to Apply for a CLIA Certificate, Including International Laboratories.\" The new version becomes effective on April 1, 2024, and expires on March 31, 2027. Applicants should begin using the 03/24 version of the Form CMS-116 as of April 1, 2024.",
+"Some major revisions to the Form CMS-116 are outlined below:",
+"General Information: A checkbox for \"Change in Laboratory Director\" was added.",
+"Email Address: Revised the language for this checkbox from \"Receive future notifications via email\" to \"Receive notifications, including electronic certificates, via email.\"",
+"Instructions for Completion: Revised the last sentence under Email Address from \"Selecting the Receive Notifications Via Email checkbox requires the laboratory to enter a valid Email Address\" to \"Selecting the Receive Notifications Including Electronic Certifications Via Email checkbox requires the laboratory to enter a valid Email Address.\"",
+"CMS Announces New Procedures for Receiving Electronic CLIA Certificates, Fee Coupons, and Loss of Accreditation Warning Letters",
+"All CLIA laboratories that have received either a paper or electronic CLIA certificate since September 26, 2023, are able to print their own CLIA certificate from the Quality Certification and Oversight Reports (QCOR) Clinical Laboratory Lookup Tool . The link displayed with your laboratory will be the most recently issued CLIA certificate. The certificate may or may not show the laboratory\u2019s current information. For example, if a laboratory updates its address, QCOR may show the current address while the certificate may reflect the old address. New changes will be updated in the next issued certificate.",
+"As of November 18, 2023, CMS ceased sending three CLIA fee coupon notices prior to the final payment date for all laboratories. CMS now sends two CLIA fee coupon notices prior to the final payment date.",
+"On November 22, 2023, CMS will begin sending electronic fee coupon notices to those laboratories that indicated on their CLIA application (Form CMS-116) their preference to receive email notifications. Like electronic CLIA certificates, laboratories will be emailed a link to their CLIA fee coupon, which they can use to print a hard copy if they are not paying CLIA fees online. Laboratories that indicated on their CLIA application (Form CMS-116) their preference to receive email notifications may receive both paper and electronic fee coupon notices for a short time during this transition.",
+"On November 22, 2023, CMS will begin sending electronic warning letters regarding loss of accreditation to those laboratories that indicated on their CLIA application (Form CMS-116) their preference to receive email notifications. Loss of accreditation warning letters are sent when a Certificate of Accreditation laboratory loses its accreditation voluntarily or nonvoluntarily. The warning letter includes information on steps the laboratory must take to continue to be certified by CLIA.",
+"Do you want to update an email address or opt to get email notifications?",
+"In order to update your email address or opt in to email notifications, a laboratory must give written notification to the appropriate State Agency . Federal jurisdiction laboratories should contact their CMS Location .",
+"For more information, visit the CMS CLIA Program website",
+"Effective October 1, 2020",
+"Any clinical laboratory that meets the definition of an Independent Clinical Laboratory (ICL), including those that perform waived testing only, will be required to obtain the state license for laboratories and follow the rules set forth by the Alabama State Board of Health. The application and fee requirements can be found on this website.",
+"All clinical laboratories that perform testing on human specimens for diagnosis, treatment, or preventive medicine are required to obtain and maintain a Clinical Laboratory Improvement Amendments (CLIA) certificate as required by CMS.",
+"CLIA, Clinical Laboratory Improvement Amendment, requires every facility that tests human specimens for the purpose of providing information for the diagnosis, prevention or treatment of any disease or the assessment of health of a human being, to meet certain federal requirements. If a facility performs tests for any of the above-mentioned purposes, it is considered, under the law, to be a laboratory.",
+"A facility may apply for one of four CLIA certificate types: waived, PPM (Provider-performed microscopy), compliance, or accreditation. Both compliance and accreditation certificates allow laboratories to perform moderate and/or high complexity testing. A waived certificate allows for tests, categorized as waived only, to be performed. With a Certificate of PPM, the participant may perform tests categorized as PPM testing (microscopy) and waived. Laboratories wishing to apply for a CLIA certificate, specific to testing type, should submit to the CLIA, State Agency, a form CMS #116, also referred to as a CLIA application. Test categorization and the form CMS #116 may be found on the CLIA website at CMS.gov/CLIA . This form is accompanied by instructions for completion. Laboratories requesting a Certificate of Accreditation must provide evidence of accreditation for the laboratory by an approved accreditation organization.",
+"Laboratory directors of facilities performing PPM, moderate, or high-complexity tests must meet specific education, training, and/or experience requirements, as defined under subpart M (42 CFR Part 493) of the CLIA requirements. These qualifications may be found on CMS.gov/CLIA .",
+"At a minimum, a director servicing a PPM should submit a copy of his current Alabama Medical License. The qualifications are different for directors servicing moderate or high complexity laboratories. Please see the above-referenced website for credentials specific to the type of testing performed.",
+"After completing the form CMS #116 (CLIA application) in its entirety, please submit it to the CLIA, State Agency for processing. This application may be mailed to: 201 Monroe Street, Suite 700, Montgomery, Alabama 36104; emailed to the Administrative Support Assistant at [email protected] ; or faxed to CLIA at 334-206-5254. Under routine conditions, please allow approximately 2-3 weeks for processing. All applicable sections of the application must be completed for processing. Incomplete applications will be returned to the facility.",
+"After processing of the application by the State Agency, a fee remittance coupon will be issued by the electronic system (it is important to have the correct mailing address on file). This fee coupon will indicate the laboratory's CLIA identification number, the amount required for certification, and, if applicable, the compliance survey or validation (accredited labs) fee. A laboratory is not allowed to perform patient testing until a registration certificate is received. An on-site inspection of compliance laboratories will be conducted at a later date, following CLIA registration.",
+"Changes to CLIA Certifications",
+"Waived laboratories may request changes (i.e. change of director, address, hours of operation) to the CLIA certification by notification on letterhead. PPM, compliance and accredited laboratories should submit changes on the form CMS 116, signed by the laboratory director and submit to the state agency.",
+"Replacement certificates may be generated upon request; but under specific circumstances. CLIA certificates are not generated by the state agency; however the state agency is authorized to make requests for replacement certificates, when certain conditions are met.",
+"To view a laboratory's expiration date:",
+"Left margin: Click on \u201cLaboratory Demographics Lookup\u201d",
+"Click on the link (mid-page) titled \u201cS&C's Quality, Certification and Oversight Reports (QCOR)\u201d",
+"Accept the terms of conditions for use.",
+"Top left margin: Click on \u201cCLIA Laboratory Lookup\u201d",
+"Search your CLIA Identification Number (Alabama)",
+"Any questions or concerns not addressed on this website or CMS.gov/CLIA regarding CLIA certifications may be addressed by the State Agency at 334-206-5120."
+],
+"docs": [
+{
+"url": "https://www.cms.gov/medicare/cms-forms/cms-forms/downloads/cms116.pdf",
+"title": "Form CMS-116"
+}
+]
+}

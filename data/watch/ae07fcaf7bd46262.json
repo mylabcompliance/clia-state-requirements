@@ -1,0 +1,44 @@
+{
+"url": "https://dph.sc.gov/professionals/healthcare-quality/clia",
+"lines": [
+"CLIA | South Carolina Department of Public Health",
+"CLIA (Clinical Laboratory Improvement Amendments)",
+"The Clinical Laboratory Improvement Amendments (CLIA) program oversees laboratories that test human specimens for diagnostic purposes. These include hospital laboratories, stand-alone diagnostic labs, and doctors' offices.",
+"Laboratory Quick Start Guide for CLIA Certification (pdf)",
+"DHHS Press Release: Initiative for More and Faster COVID-19 Testing in Nursing Homes",
+"CMS Laboratory Demographics Lookup",
+"CLIA Certification and COVID-19 Testing Memo (pdf)",
+"Frequently Asked Questions about the CLIA Program",
+"CLIA Facility Status Types for Long-Term Care Facilities Memo (pdf)",
+"Contact: Please send all SCDPH CLIA Program questions to SC_CLIA@dph.sc.gov .",
+"CLIA SOM Chapter 6 Reference (pdf)",
+"Appendix C Survey Procedures for the Application of Conditions for Coverage for Independent Laboratories - Interpretive Guidelines 42 CFR 493, Subpart A-H, J, K Part 1, K Part 2, M & Q (pdf)",
+"Appendix Q Guidelines for Determining Immediate and Serious Threat to Patient Health and Safety (pdf)"
+],
+"docs": [
+{
+"url": "https://www.cms.gov/files/document/cms-clia-laboratory-quick-start-guide-remediated.pdf",
+"title": "Laboratory Quick Start Guide for CLIA Certification"
+},
+{
+"url": "https://dph.sc.gov/sites/scdph/files/media/document/Memo_CLIA_and_COVID19_Testing-5.29.2020.pdf",
+"title": "CLIA Certification and COVID-19 Testing Memo"
+},
+{
+"url": "https://dph.sc.gov/sites/scdph/files/media/document/COVID19-CLIA-Facility-Type-Memo.12.10.2020.pdf",
+"title": "CLIA Facility Status Types for Long-Term Care Facilities Memo"
+},
+{
+"url": "http://www.cms.gov/Regulations-and-Guidance/Guidance/Manuals/Downloads/som107c06.pdf",
+"title": "CLIA SOM Chapter 6 Reference"
+},
+{
+"url": "http://www.cms.gov/Medicare/Provider-Enrollment-and-Certification/SurveyCertificationGenInfo/Downloads/SCLetter10-12.pdf",
+"title": "Appendix C Survey Procedures for the Application of Conditions for Coverage for Independent Laboratories - Interpretive Guidelines 42 CFR 493, Subpart A-H, J, K"
+},
+{
+"url": "http://cms.hhs.gov/Regulations-and-Guidance/Guidance/Manuals/downloads/som107ap_q_immedjeopardy.pdf",
+"title": "Appendix Q Guidelines for Determining Immediate and Serious Threat to Patient Health and Safety"
+}
+]
+}

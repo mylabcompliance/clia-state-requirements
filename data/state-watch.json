@@ -1,0 +1,683 @@
+{
+ "changedToday": [],
+ "generated": "2026-11-25T14:43:28Z",
+ "sources": {
+  "alabama:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Alabama lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Alabama",
+   "state": "alabama",
+   "url": "https://www.alabamapublichealth.gov/providerstandards/clia.html"
+  },
+  "alaska:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Alaska lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Alaska",
+   "state": "alaska",
+   "url": "https://health.alaska.gov/en/resources/state-laboratories-clinical-laboratory-improvement-amendments/"
+  },
+  "arizona:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Arizona lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Arizona",
+   "state": "arizona",
+   "url": "https://www.azdhs.gov/preparedness/state-laboratory/lab-licensure-certification/index.php"
+  },
+  "arkansas:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Arkansas lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Arkansas",
+   "state": "arkansas",
+   "url": "https://healthy.arkansas.gov/programs-services/licensing-military-member-licensure-permits-plan-reviews/health-facility-services/clinical-laboratory-improvement-act-clia/"
+  },
+  "california:agency": {
+   "changes": [],
+   "label": "California lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": "error: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl",
+   "name": "California",
+   "state": "california",
+   "url": "https://www.cdph.ca.gov/Programs/OSPHLD/LFS/Pages/CLIA.aspx"
+  },
+  "california:source2": {
+   "changes": [],
+   "label": "California rule or guidance source",
+   "lastChecked": "2026-11-25",
+   "lastStatus": "error: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl",
+   "name": "California",
+   "state": "california",
+   "url": "https://www.cdph.ca.gov/Programs/OSPHLD/LFS/Pages/ClinicalLaboratoryPersonnel.aspx"
+  },
+  "colorado:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Colorado lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Colorado",
+   "state": "colorado",
+   "url": "https://cdphe.colorado.gov/clia-clinical-laboratory-improvement-amendments"
+  },
+  "connecticut:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Connecticut lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Connecticut",
+   "state": "connecticut",
+   "url": "https://portal.ct.gov/dph"
+  },
+  "delaware:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Delaware lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Delaware",
+   "state": "delaware",
+   "url": "https://dhss.delaware.gov/dph/homepage/about/sections/ehdishome/labs/clia/"
+  },
+  "federal:cdc-clia-law-and-regulations": {
+   "changes": [],
+   "label": "CDC CLIA law and regulations",
+   "lastChecked": "2026-11-25",
+   "lastStatus": "error: HTTP Error 404: Not Found",
+   "name": "Federal",
+   "state": "federal",
+   "url": "https://www.cdc.gov/clia/php/regulations/index.html"
+  },
+  "federal:cms-clia-program": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "CMS CLIA program",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Federal",
+   "state": "federal",
+   "url": "https://www.cms.gov/medicare/quality/clinical-laboratory-improvement-amendments"
+  },
+  "federal:cms-clia-state-agency-contacts": {
+   "changes": [],
+   "label": "CMS CLIA state agency contacts",
+   "lastChecked": "2026-11-25",
+   "lastStatus": "error: HTTP Error 404: Not Found",
+   "name": "Federal",
+   "state": "federal",
+   "url": "https://www.cms.gov/medicare/quality/clinical-laboratory-improvement-amendments/state-agency-regional-office-clia-contacts"
+  },
+  "florida:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Florida lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Florida",
+   "state": "florida",
+   "url": "https://ahca.myflorida.com/"
+  },
+  "florida:source2": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Florida rule or guidance source",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Florida",
+   "state": "florida",
+   "url": "https://floridasclinicallabs.gov/licensing/"
+  },
+  "georgia:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Georgia lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Georgia",
+   "state": "georgia",
+   "url": "https://dch.georgia.gov/divisionsoffices/hfrd/facilities-provider-information/clia"
+  },
+  "georgia:source2": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Georgia rule or guidance source",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Georgia",
+   "state": "georgia",
+   "url": "https://www.legis.ga.gov/legislation/58932"
+  },
+  "hawaii:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Hawaii lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Hawaii",
+   "state": "hawaii",
+   "url": "https://health.hawaii.gov/ohca/home/medicare-section/clia/"
+  },
+  "idaho:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Idaho lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Idaho",
+   "state": "idaho",
+   "url": "https://healthandwelfare.idaho.gov/providers/idaho-laboratories-and-testing/clinical-lab-certification"
+  },
+  "illinois:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Illinois lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Illinois",
+   "state": "illinois",
+   "url": "https://dph.illinois.gov/topics-services/health-care-regulation/clia/faqs.html"
+  },
+  "indiana:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Indiana lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Indiana",
+   "state": "indiana",
+   "url": "https://www.in.gov/health/cshcr/acute-and-continuing-care/clinical-laboratory-clia-licensing-and-certification-program/"
+  },
+  "iowa:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Iowa lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Iowa",
+   "state": "iowa",
+   "url": "https://shl.uiowa.edu/"
+  },
+  "kansas:agency": {
+   "changes": [],
+   "label": "Kansas lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": "error: HTTP Error 403: Forbidden",
+   "name": "Kansas",
+   "state": "kansas",
+   "url": "https://www.kdhe.ks.gov/1114/Clinical-Laboratory-Improvement-Amendmen"
+  },
+  "kentucky:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Kentucky lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Kentucky",
+   "state": "kentucky",
+   "url": "https://www.chfs.ky.gov/agencies/os/oig/dhc/Pages/default.aspx"
+  },
+  "louisiana:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Louisiana lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Louisiana",
+   "state": "louisiana",
+   "url": "https://ldh.la.gov/page/3766"
+  },
+  "maine:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Maine lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Maine",
+   "state": "maine",
+   "url": "https://www.maine.gov/dhhs/dlc/licensing-certification/medical-facilities/"
+  },
+  "maine:source2": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Maine rule or guidance source",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Maine",
+   "state": "maine",
+   "url": "https://www.legislature.maine.gov/legis/statutes/22/title22ch411.pdf"
+  },
+  "maryland:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Maryland lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Maryland",
+   "state": "maryland",
+   "url": "https://health.maryland.gov/ohcq/"
+  },
+  "massachusetts:agency": {
+   "changes": [],
+   "label": "Massachusetts lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": "error: HTTP Error 403: Forbidden",
+   "name": "Massachusetts",
+   "state": "massachusetts",
+   "url": "https://www.mass.gov/clinical-laboratory-program"
+  },
+  "massachusetts:source2": {
+   "changes": [],
+   "label": "Massachusetts rule or guidance source",
+   "lastChecked": "2026-11-25",
+   "lastStatus": "error: HTTP Error 403: Forbidden",
+   "name": "Massachusetts",
+   "state": "massachusetts",
+   "url": "https://www.mass.gov/how-to/apply-for-a-massachusetts-clinical-laboratory-license"
+  },
+  "michigan:agency": {
+   "changes": [],
+   "label": "Michigan lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": "error: HTTP Error 403: Forbidden",
+   "name": "Michigan",
+   "state": "michigan",
+   "url": "https://www.michigan.gov/lara/bureau-list/bsc/accs-division/clia"
+  },
+  "minnesota:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Minnesota lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Minnesota",
+   "state": "minnesota",
+   "url": "https://www.health.state.mn.us/facilities/regulation/clia/index.html"
+  },
+  "mississippi:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Mississippi lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Mississippi",
+   "state": "mississippi",
+   "url": "https://msdh.ms.gov/"
+  },
+  "mississippi:source2": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Mississippi rule or guidance source",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Mississippi",
+   "state": "mississippi",
+   "url": "https://www.cms.gov/Regulations-and-Guidance/Legislation/CLIA/Downloads/CLIASA.pdf"
+  },
+  "missouri:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Missouri lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Missouri",
+   "state": "missouri",
+   "url": "https://health.mo.gov/providers/clia-clinical-laboratory-program"
+  },
+  "montana:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Montana lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Montana",
+   "state": "montana",
+   "url": "https://dphhs.mt.gov/oig/Certification/clia/"
+  },
+  "nebraska:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Nebraska lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Nebraska",
+   "state": "nebraska",
+   "url": "https://dhhs.ne.gov/licensure/Pages/CLIA-Clinical-Labs.aspx"
+  },
+  "nevada:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Nevada lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Nevada",
+   "state": "nevada",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-652.html"
+  },
+  "nevada:source2": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Nevada rule or guidance source",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Nevada",
+   "state": "nevada",
+   "url": "https://www.leg.state.nv.us/NAC/NAC-652.html"
+  },
+  "newhampshire:agency": {
+   "changes": [],
+   "label": "New Hampshire lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": "error: HTTP Error 403: Forbidden",
+   "name": "New Hampshire",
+   "state": "newhampshire",
+   "url": "https://www.dhhs.nh.gov/clinical-laboratory-improvement-amendments-clia"
+  },
+  "newhampshire:source2": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "New Hampshire rule or guidance source",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "New Hampshire",
+   "state": "newhampshire",
+   "url": "https://www.gc.nh.gov/rsa/html/XI/151/151-2.htm"
+  },
+  "newjersey:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "New Jersey lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "New Jersey",
+   "state": "newjersey",
+   "url": "https://www.nj.gov/health/phel/clinical-lab-imp-services/state_licensing/"
+  },
+  "newmexico:agency": {
+   "changes": [],
+   "label": "New Mexico lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": "error: HTTP Error 403: Forbidden",
+   "name": "New Mexico",
+   "state": "newmexico",
+   "url": "https://www.hca.nm.gov/"
+  },
+  "newyork:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "New York lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "New York",
+   "state": "newyork",
+   "url": "https://www.wadsworth.org/regulatory/clep"
+  },
+  "newyork:clep-home-and-news": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "CLEP home and news",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "New York",
+   "state": "newyork",
+   "url": "https://www.wadsworth.org/regulatory/clep"
+  },
+  "newyork:clep-laboratory-standards": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "CLEP laboratory standards",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "New York",
+   "state": "newyork",
+   "url": "https://www.wadsworth.org/regulatory/clep/clinical-labs/laboratory-standards"
+  },
+  "newyork:clep-laws-and-regulations": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "CLEP laws and regulations",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "New York",
+   "state": "newyork",
+   "url": "https://www.wadsworth.org/regulatory/clep/laws"
+  },
+  "newyork:clep-single-use-permits": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "CLEP Single Use Permits",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "New York",
+   "state": "newyork",
+   "url": "https://www.wadsworth.org/regulatory/clep/clinical-labs/single-use-permits"
+  },
+  "newyork:clep-test-approval-(ldt-submissions)": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "CLEP test approval (LDT submissions)",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "New York",
+   "state": "newyork",
+   "url": "https://www.wadsworth.org/regulatory/clep/clinical-labs/obtain-permit/test-approval"
+  },
+  "newyork:ny-doh-recently-adopted-regulations": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "NY DOH recently adopted regulations",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "New York",
+   "state": "newyork",
+   "url": "https://regs.health.ny.gov/regulations/recently-adopted"
+  },
+  "newyork:wadsworth-center-news": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Wadsworth Center news",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "New York",
+   "state": "newyork",
+   "url": "https://www.wadsworth.org/news"
+  },
+  "northcarolina:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "North Carolina lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "North Carolina",
+   "state": "northcarolina",
+   "url": "https://info.ncdhhs.gov/dhsr/ahc/clia/index.html"
+  },
+  "northcarolina:source2": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "North Carolina rule or guidance source",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "North Carolina",
+   "state": "northcarolina",
+   "url": "https://info.ncdhhs.gov/dhsr/ahc/clia/cliafaq.html"
+  },
+  "northdakota:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "North Dakota lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "North Dakota",
+   "state": "northdakota",
+   "url": "https://www.hhs.nd.gov/health/health-facilities-unit/clia-laboratories"
+  },
+  "ohio:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Ohio lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Ohio",
+   "state": "ohio",
+   "url": "https://odh.ohio.gov/know-our-programs/lab-certification-clia"
+  },
+  "oklahoma:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Oklahoma lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Oklahoma",
+   "state": "oklahoma",
+   "url": "https://oklahoma.gov/health/services/licensing-inspections/medical-facilities-service.html"
+  },
+  "oregon:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Oregon lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Oregon",
+   "state": "oregon",
+   "url": "https://www.oregon.gov/oha/PH/LaboratoryServices/ClinicalLaboratoryRegulation/Pages/index.aspx"
+  },
+  "pennsylvania:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Pennsylvania lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Pennsylvania",
+   "state": "pennsylvania",
+   "url": "https://www.pa.gov/agencies/health/healthcare-and-public-health-professionals/laboratories"
+  },
+  "rhodeisland:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Rhode Island lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Rhode Island",
+   "state": "rhodeisland",
+   "url": "https://health.ri.gov/licensing/laboratory"
+  },
+  "southcarolina:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "South Carolina lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "South Carolina",
+   "state": "southcarolina",
+   "url": "https://dph.sc.gov/professionals/healthcare-quality/clia"
+  },
+  "southdakota:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "South Dakota lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "South Dakota",
+   "state": "southdakota",
+   "url": "https://doh.sd.gov/healthcare-professionals/health-facility-licensure/"
+  },
+  "tennessee:agency": {
+   "changes": [],
+   "label": "Tennessee lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": "error: HTTP Error 403: Forbidden",
+   "name": "Tennessee",
+   "state": "tennessee",
+   "url": "https://www.tn.gov/hfc/division-of-licensure-and-regulation/certification/clinical-laboratory-improvement-amendments.html"
+  },
+  "texas:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Texas lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Texas",
+   "state": "texas",
+   "url": "https://www.hhs.texas.gov/providers/health-care-facilities-regulation/laboratories-clinical-laboratory-improvement-amendments"
+  },
+  "utah:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Utah lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Utah",
+   "state": "utah",
+   "url": "https://uphl.utah.gov/certifications/clinical-laboratory-certification/"
+  },
+  "vermont:agency": {
+   "changes": [],
+   "label": "Vermont lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": "error: HTTP Error 403: Forbidden",
+   "name": "Vermont",
+   "state": "vermont",
+   "url": "https://www.dhhs.nh.gov/clinical-laboratory-improvement-amendments-clia"
+  },
+  "virginia:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Virginia lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Virginia",
+   "state": "virginia",
+   "url": "https://www.vdh.virginia.gov/licensure-and-certification/division-of-acute-care-services/laboratories/"
+  },
+  "washington:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Washington lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Washington",
+   "state": "washington",
+   "url": "https://doh.wa.gov/licenses-permits-and-certificates/facilities-z/medical-test-sites-mts/licensing-information"
+  },
+  "westvirginia:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "West Virginia lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "West Virginia",
+   "state": "westvirginia",
+   "url": "https://dhhr.wv.gov/ols/regulatory/Pages/CLIA.aspx"
+  },
+  "wisconsin:agency": {
+   "baseline": "2026-11-25",
+   "changes": [],
+   "label": "Wisconsin lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": 200,
+   "name": "Wisconsin",
+   "state": "wisconsin",
+   "url": "https://www.dhs.wisconsin.gov/regulations/labs/introduction.htm"
+  },
+  "wyoming:agency": {
+   "changes": [],
+   "label": "Wyoming lab regulator",
+   "lastChecked": "2026-11-25",
+   "lastStatus": "error: HTTP Error 404: Not Found",
+   "name": "Wyoming",
+   "state": "wyoming",
+   "url": "https://health.wyo.gov/aging/hls/clia-clinical-laboratory-improvement-amendments/"
+  }
+ }
+}

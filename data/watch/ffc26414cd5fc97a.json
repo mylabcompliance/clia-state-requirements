@@ -1,0 +1,92 @@
+{
+"url": "https://health.ri.gov/licensing/laboratory",
+"lines": [
+"Laboratory Licensing | Department of Health",
+"Scam Alert: Scammers Spoofing RIDOH State Phone Numbers",
+"The Department of Health has gotten reports of scammers using Rhode Island State Government Phone numbers. If you receive a call from a RIDOH phone number and you are not sure if it is from our department, please hang up and call us back directly at 401-222-5960. We\u2019re happy to assist you.",
+"The Office of the Attorney General has great resources to help you identify scams: https://riag.ri.gov/scams",
+"Initial Licensing & Renewal Information",
+"The Rhode Island Department of Health (RIDOH) licenses or certifies three different kinds of laboratories. These laboratories have different application and renewal requirements. For all license types, renewal notices are sent out about 60 days before the license expiration date.",
+"Clinical Laboratory Licensing",
+"RIDOH licenses clinical laboratories to protect the health, safety, and welfare of the public. (View license application .) Licenses are effective for 2 years and expire at the end of the calendar year. Clinical labs renew their licenses online .",
+"Analytical Laboratory Certification",
+"RIDOH certifies analytical laboratories to test drinking water, wastewater, and environmental samples for lead and other contaminants. (View license application .) Licenses are effective for 1 year and expire on December 30 of each year. Analytical labs cannot renew their licenses online. Renewal notices are sent out about 60 days before the license expiration date.",
+"Analytical Laboratory Licensing for Sampling and Testing Cannabis",
+"The Cannabis Laboratory Licensing Program licenses analytical laboratories to collect and analyze cannabis products cultivated and/or manufactured by licensed cultivators, compassion centers, and producers. (View license application .) Licenses are effective for 1 year and expire on December 30 of each year. Analytical labs cannot renew their licenses online. Renewal notices are sent out about 60 days before the license expiration date. For more information on how to get licensed as a Cannabis Testing Laboratory, review this fact sheet for applicants .",
+"Preliminary Application and Instructions for Licensing Analytical Laboratories for Sampling and Testing Cannabis",
+"Clinical Laboratory Regulations",
+"Analytical Laboratory Regulations",
+"Cannabis Testing Laboratory Regulations",
+"Person License Verification Request",
+"Facility License Verification Request",
+"Tax Payer Status Affidavit",
+"Verify a Laboratory License",
+"Find Licensed Laboratories",
+"Find Analytical Laboratory Services",
+"Find Specimen Submission Guidelines",
+"Download Laboratory Lists",
+"Find Disciplinary Actions",
+"3 Capitol Hill Room 105A, Providence, RI 02908",
+"Parking is restricted until 3 p.m.",
+"150 Richmond St., Suite 100, Providence, RI 02903",
+"Guidance, Recommendations",
+"Healthcare Worker Return to Work Guidance",
+"Reportable Diseases Summary Sheet For Clinical Providers & Laboratories",
+"Guidance, Recommendations | Training",
+"Respiratory Virus Season Healthcare Worker Return to Work Guidance Updates (02/2026)"
+],
+"docs": [
+{
+"url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/applications/ClinicalLaboratory.pdf",
+"title": "license application"
+},
+{
+"url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/applications/AnalyticalLaboratoryCertification.pdf",
+"title": "license application"
+},
+{
+"url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/applications/MMTestingLabPreliminary.pdf",
+"title": "license application"
+},
+{
+"url": "https://health.ri.gov/publications/frequentlyaskedquestions/Medical-Marijuana-Laboratory-Applicants.pdf",
+"title": "fact sheet for applicants"
+},
+{
+"url": "https://health.ri.gov/forms/changeofaddress/Professions.pdf",
+"title": "Change of Address"
+},
+{
+"url": "https://health.ri.gov/forms/status/InactiveProfessional.pdf",
+"title": "Inactive Status Request"
+},
+{
+"url": "https://health.ri.gov/forms/recordrequest/LetterOfLicenseVerification.pdf",
+"title": "Person License Verification Request"
+},
+{
+"url": "https://health.ri.gov/forms/recordrequest/LetterOfFacilityLicenseVerification.pdf",
+"title": "Facility License Verification Request"
+},
+{
+"url": "https://health.ri.gov/forms/request/MilitaryVeteranExpediteForm.pdf",
+"title": "Military Expedition Form"
+},
+{
+"url": "https://health.ri.gov/forms/status/TaxPayerAffidavit.pdf",
+"title": "Tax Payer Status Affidavit"
+},
+{
+"url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2025-09/healthcare-workers-management-guidance.pdf",
+"title": "Healthcare Worker Return to Work Guidance"
+},
+{
+"url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/lists/ReportableDiseases.pdf",
+"title": "Reportable Diseases Summary Sheet For Clinical Providers & Laboratories"
+},
+{
+"url": "https://health.ri.gov/sites/g/files/xkgbur1006/files/2026-02/respiratory-virus-season-guidance-updates.pdf",
+"title": "Respiratory Virus Season Healthcare Worker Return to Work Guidance Updates"
+}
+]
+}

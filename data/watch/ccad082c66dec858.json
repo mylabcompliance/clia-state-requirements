@@ -1,0 +1,46 @@
+{
+"url": "https://info.ncdhhs.gov/dhsr/ahc/clia/cliafaq.html",
+"lines": [
+"NC DHSR AHCLCS CLIA: Frequently Asked Questions",
+"NC Division of Health Service Regulation",
+"Acute and Home Care Licensure and Certification Section",
+"Frequently Asked Questions",
+"1. If we only draw blood and send it out to a reference lab do we need a CLIA number?",
+"If you do not perform any test on-site you do not need a CLIA number. However, if you do even a simple test such as finger stick glucose or urine dip, you are required to have a CLIA certificate (number).",
+"2. Does North Carolina have any state licensure for clinical laboratories or laboratory personnel??",
+"No, North Carolina follows the CLIA regulations and does not have separate state licensure requirements for laboratories or laboratory personnel.",
+"3. Where do I get a CLIA application?",
+"An application can be downloaded (printed) from the Centers for Medicare and Medicaid Services (CMS) Web site for CLIA.",
+"4. Do I need to send money (fees) with the application?",
+"No, do not send money to the state agency with your application. Once the application is keyed into the CMS/CLIA database, CMS will bill for the requested certificate type fees.",
+"5. We are opening another site for our practice, do we need a separate CLIA number for that site?",
+"Yes, you must have a separate CLIA number for each separate physical location of testing.",
+"6. Is it ever possible to have more than one site on a single certificate?",
+"There are two instances where you may qualify for a multiple site certificate and they are:",
+"not-for-profit federal, state or local government laboratory engaged in limited public health testing, (not more than a combination of 15 moderately complex or waived tests per certificate); or",
+"a hospital with several labs located at contiguous buildings on the same campus within the same physical location of street address and under common direction.",
+"7. If we do not bill Medicare/Medicaid for reimbursements do we still have to obtain a CLIA certificate?",
+"Yes, CLIA is a federal requirement that is not conditional upon Medicare/Medicaid billing.",
+"8. We only do one or two finger stick glucose in a year, do we still need a certificate?",
+"Yes, a CLIA certificate is required if you do even one test in a year.",
+"9. Is there a CLIA checklist of requirements?",
+"Not at this time. The response to Question 12 below provides additional helpful information regarding resources about CLIA.",
+"10. Are there certain CLIA forms to complete when reporting changes to a CLIA certificate?",
+"The CMS form 116 (PDF, 458 KB) available on the CMS Web site for CLIA may be used to report any change of information on the current CLIA certificate. A laboratory must complete a new form 116 when upgrading the laboratory testing menu from waived or provider performed microscopy (PPMP) to non-waived (moderate or high complexity). The 116 form must be signed by the laboratory director on the last page (page 4). Documentation of experience and/or education of the lab director must accompany the application. Laboratory director qualifications may be found at the CLIA website .",
+"11. Is a list of CLIA waived tests and/or PPM tests available?",
+"Yes, the CMS Web site for CLIA has a download list of both on the Categorization of Tests page. These lists also provide you with the correct CPT codes.",
+"12. Where can we find out more information about CLIA requirements?",
+"Listed below are just a few of the resources that are available on the CMS Web site for CLIA .",
+"Interpretive Guidelines for Laboratories",
+"Proficiency Testing Providers",
+"13. Is there a website where I can check basic information about a CLIA certificate without contacting the NC CLIA Office?",
+"Yes, you can check online for basic information on any \u201cactive\u201d laboratory in the US such as the CLIA ID number, name, address, telephone number, certificate type, type of laboratory, and certificate expiration date by going to the following website: https://www.cms.gov/Regulations-and-Guidance/Legislation/CLIA/CLIA_Laboratory_Demographic_Information.html . You will need to have the CLIA ID number, laboratory name, or city/state to use this website. Please note that the website is not done in real-time and CMS updates the information once every 45 days. Check the \u201cData Source\u201d date if a certificate has expired but is still visible on the website.",
+"Division of Health Service Regulation"
+],
+"docs": [
+{
+"url": "https://www.cms.gov/Medicare/CMS-Forms/CMS-Forms/downloads/cms116.pdf",
+"title": "CMS form 116"
+}
+]
+}

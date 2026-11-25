@@ -1,0 +1,45 @@
+{
+"url": "https://www.cms.gov/medicare/quality/clinical-laboratory-improvement-amendments",
+"lines": [
+"Clinical Laboratory Improvement Amendments (CLIA) | CMS",
+"Clinical Laboratory Improvement Amendments (CLIA)",
+"Important Updates & Reminders",
+"Use the Updated CMS-116 Form to Apply for a CLIA Certificate",
+"CMS updated the CLIA Application, Form CMS-116. Starting November 9, 2026 , laboratories applying for an initial certificate or updating existing certificate information must use the revised form to avoid processing delays .",
+"What\u2019s new? The form now asks for more than one email address, the owner\u2019s name and telephone number, and your CMS Certification Number (CCN) if your lab is within a CMS-certified facility.",
+"Important! When completing the CMS-116 Form, enter the 9-digit Federal Tax Identification Number (TIN) associated with your laboratory facility. Only enter numbers and do not use dashes, spaces, or other symbols. Example: Enter 123456789 (not 123-45-6789).",
+"Remember, CLIA Is Paperless!",
+"CMS no longer mails paper certificates or fee coupons and no longer accepts paper checks to pay your certification or survey fees. Your laboratory can have up to four email addresses to receive these certificates, fee coupons, and other CMS communications electronically.",
+"Know Where Your CLIA Communications Come From",
+"Beware of third-party solicitations resembling official CLIA invoices . These documents are not issued by CMS. Official CLIA communications only come from CMS or your State Survey Agency.",
+"Check your laboratory's certification and survey status anytime for free on the QCOR CLIA Laboratory Lookup .",
+"Contact your State Agency or the CMS CLIA program at LabExcellence@cms.hhs.gov if you have questions.",
+"Apply for CLIA Certification",
+"Use the Certification Quick Start Guide to help you complete the CMS-116 application .",
+"Laboratories must pay their CLIA certification fee online though pay.gov , a secure platform hosted by the U.S. Treasury Department.",
+"The Centers for Medicare & Medicaid Services (CMS) regulates laboratory testing performed on humans in the U.S. for health assessment or to diagnose, prevent, or treat disease through the Clinical Laboratory Improvement Amendments (CLIA) program.",
+"The objective of CLIA is to ensure quality laboratory testing. In 1988, Congress passed CLIA regulations to establish quality standards for all testing laboratories to ensure that all patient test results are:",
+"CLIA regulations are based on the complexity of the test method. The more complicated the test, the more stringent the requirements. More information about laboratory test categorization and complexity .",
+"CLIA covers approximately 320,000 laboratory entities. State Survey Agencies are authorized to set and enforce CLIA standards.",
+"Although all laboratories must be properly certified to receive Medicare or Medicaid payments, CLIA has no direct Medicare or Medicaid program responsibilities.",
+"Contact your State Agency about:",
+"Certificate status or upgrades",
+"Laboratory Director changes",
+"For other questions about the CLIA program, email us at LabExcellence@cms.hhs.gov .",
+"Accredited laboratories should contact their Accreditation Organization for guidance.",
+"Tip : Include your laboratory\u2019s name and CLIA ID when contacting your State Agency or Accreditation Organization.",
+"Information about the application process and forms you need to submit",
+"Helpful resources to learn about CLIA and laboratory requirements",
+"Access your laboratory\u2019s CLIA certificate and find laboratory demographic information"
+],
+"docs": [
+{
+"url": "https://www.cms.gov/regulations-and-guidance/legislation/clia/downloads/cliasa.pdf",
+"title": "State Agency"
+},
+{
+"url": "https://www.cms.gov/medicare/cms-forms/cms-forms/downloads/cms116.pdf",
+"title": "CMS-116 application"
+}
+]
+}
