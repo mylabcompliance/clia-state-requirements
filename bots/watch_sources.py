@@ -11,8 +11,8 @@ EXTRA = [
     ("newyork", "New York", "Wadsworth Center news", "https://www.wadsworth.org/news"),
     ("newyork", "New York", "NY DOH recently adopted regulations", "https://regs.health.ny.gov/regulations/recently-adopted"),
     ("federal", "Federal", "CMS CLIA program", "https://www.cms.gov/medicare/quality/clinical-laboratory-improvement-amendments"),
-    ("federal", "Federal", "CMS CLIA state agency contacts", "https://www.cms.gov/medicare/quality/clinical-laboratory-improvement-amendments/state-agency-regional-office-clia-contacts"),
-    ("federal", "Federal", "CDC CLIA law and regulations", "https://www.cdc.gov/clia/php/regulations/index.html"),
+    ("federal", "Federal", "CMS CLIA state agency contacts", "https://www.cms.gov/Regulations-and-Guidance/Legislation/CLIA/State_Agency_and_Regional_Office_CLIA_Contacts"),
+    ("federal", "Federal", "CMS CLIA resources and support", "https://www.cms.gov/medicare/quality/clinical-laboratory-improvement-amendments/contacts"),
 ]
 
 def sources():

@@ -63,8 +63,10 @@ def main():
             status, page = fetch(src["url"])
             lines, docs = extract(src["url"], page)
             rec["lastStatus"] = status
+            rec.pop("manualCheck", None)
         except Exception as e:
             rec["lastStatus"] = f"error: {str(e)[:80]}"
+            rec["manualCheck"] = True  # site blocks automated checks or is unreachable; reviewed by hand
             state["sources"][sid] = rec
             continue
         prev = json.loads(f.read_text()) if f.exists() else None
