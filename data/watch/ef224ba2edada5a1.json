@@ -1,0 +1,69 @@
+{
+"url": "https://www.cms.gov/medicare/quality/clinical-laboratory-improvement-amendments/contacts",
+"lines": [
+"Resources & Support | CMS",
+"CLIA Educational Materials",
+"We developed detailed brochures and reference materials to help you understand CLIA regulations, laboratory requirements and responsibilities. These materials are designed to support laboratory testing and personnel by covering a variety of helpful topics. They\u2019re meant to be a resource, not to replace statutes, regulations, or formal policy guidance.",
+"Proficiency Testing and PT Referral (PDF)",
+"Laboratory Operations & Quality Control",
+"Developing an IQCP - A Step-By-Step Guide workbook",
+"Personnel & Responsibilities",
+"Laboratory Director Responsibilities (PDF)",
+"Assessing Personnel Competency (PDF)",
+"Verification of Performance Specifications (PDF)",
+"Calibration and Calibration Verification (PDF)",
+"Laboratory Complaints (PDF)",
+"Federal Partner Resources",
+"Food & Drug Administration (FDA)",
+"Centers for Disease Control & Prevention (CDC)",
+"Contact your State Agency (PDF) if you have questions about CLIA or to find out if you need to submit additional forms or documentation to complete your CLIA application.",
+"Some laboratories may choose to get accredited by an HHS-approved accreditation organization (PDF) . Contact your accreditation organization if you need help.",
+"For other questions about the CLIA program, email us at LabExcellence@cms.hhs.gov ."
+],
+"docs": [
+{
+"url": "https://www.cms.gov/regulations-and-guidance/legislation/clia/downloads/howobtaincliacertificate.pdf",
+"title": "CLIA Certification (PDF)"
+},
+{
+"url": "https://www.cms.gov/files/document/clia-brochure-proficiency-testing-and-pt-referral-october-2024.pdf",
+"title": "Proficiency Testing and PT Referral (PDF)"
+},
+{
+"url": "https://www.cdc.gov/lab-quality/docs/developing-iqcp.pdf",
+"title": "Developing an IQCP - A Step-By-Step Guide workbook"
+},
+{
+"url": "https://www.cms.gov/regulations-and-guidance/legislation/clia/downloads/brochure7.pdf",
+"title": "Laboratory Director Responsibilities (PDF)"
+},
+{
+"url": "https://www.cms.gov/regulations-and-guidance/legislation/clia/downloads/clia_compbrochure_508.pdf",
+"title": "Assessing Personnel Competency (PDF)"
+},
+{
+"url": "https://www.cms.gov/files/document/form-w-9-2025.pdf",
+"title": "Form W-9 2026"
+},
+{
+"url": "https://www.cms.gov/regulations-and-guidance/legislation/clia/downloads/6064bk.pdf",
+"title": "Verification of Performance Specifications (PDF)"
+},
+{
+"url": "https://www.cms.gov/files/document/clia-brochure-calibration-and-calibration-verification-april-2006.pdf",
+"title": "Calibration and Calibration Verification (PDF)"
+},
+{
+"url": "https://www.cms.gov/regulations-and-guidance/legislation/clia/downloads/cliabrochure9.pdf",
+"title": "Laboratory Complaints (PDF)"
+},
+{
+"url": "https://www.cms.gov/regulations-and-guidance/legislation/clia/downloads/cliasa.pdf",
+"title": "State Agency (PDF)"
+},
+{
+"url": "https://www.cms.gov/files/document/cms-gov-ao-list.pdf",
+"title": "HHS-approved accreditation organization (PDF)"
+}
+]
+}
