@@ -15,7 +15,6 @@
 "Centers for Disease Control and Prevention CLIA Page",
 "Centers for Medicare and Medicaid Services CLIA Page",
 "U.S. Food and Drug Administration CLIA Page",
-"CLIA Survey Plan of Correction Template",
 "Guidelines for Certificate of Provider-Performed Microscopy Procedures (PPMP)",
 "Appendix C - Survey Procedures and Interpretive Guidelines for Laboratories and Laboratory Services",
 "CLIA information for Out of State Laboratories",
@@ -24,13 +23,13 @@
 "North Dakota Department of Health and Human Services (NDHHS), Disease Control and Forensic Pathology Section Electronic Reporting",
 "Search for CLIA Laboratory Survey Results",
 "Health Facilities - CLIA Bits Newsletter",
-"CLIA Bits Newsletter Spring 2025 -exclusion",
+"CLIA Bits Newsletter Spring 2025",
 "Online Form for the Public to Report a Concern to Health Facilities",
 "Contact Health Facilities"
 ],
 "docs": [
 {
-"url": "https://www.cms.gov/Medicare/CMS-Forms/CMS-Forms/Downloads/CMS116.pdf",
+"url": "https://www.cms.gov/medicare/cms-forms/cms-forms/downloads/cms116.pdf",
 "title": "CLIA Application for Certification Form CMS-116"
 },
 {
@@ -46,23 +45,19 @@
 "title": "CLIA Federal Regulations"
 },
 {
-"url": "https://www.hhs.nd.gov/sites/default/files/documents/DOH%20Legacy/HF/CLIA/plan-of-correction-template-exclusion.docx",
-"title": "CLIA Survey Plan of Correction Template"
-},
-{
-"url": "https://www.hhs.nd.gov/sites/default/files/documents/DOH%20Legacy/HF/CLIA/clia-ppm-guidelines-exclusion.pdf",
+"url": "https://www.hhs.nd.gov/sites/default/files/documents/hf/clia-ppm-guidelines-exclusion.pdf",
 "title": "Guidelines for Certificate of Provider-Performed Microscopy Procedures (PPMP)"
 },
 {
-"url": "https://www.hhs.nd.gov/sites/default/files/documents/DOH%20Legacy/HF/CLIA/clia-out-of-state-labs-exclusion.pdf",
+"url": "https://www.hhs.nd.gov/sites/default/files/documents/hf/clia-out-of-state-labs-exclusion.pdf",
 "title": "CLIA information for Out of State Laboratories"
 },
 {
-"url": "https://www.hhs.nd.gov/sites/default/files/documents/DOH%20Legacy/HF/CLIA/clia-good-lab-practice-exclusion.pdf",
+"url": "https://www.hhs.nd.gov/sites/default/files/documents/hf/clia-good-lab-practice-exclusion.pdf",
 "title": "Good Laboratory Practice for Certificate of Waiver laboratories"
 },
 {
-"url": "https://www.hhs.nd.gov/sites/default/files/documents/DOH%20Legacy/HF/CLIA/cliabitsspring2025-exclusion.pdf",
+"url": "https://www.hhs.nd.gov/sites/default/files/documents/hf/cliabitsspring2025-exclusion.pdf",
 "title": "Spring 2025"
 }
 ]
